@@ -4,3 +4,7 @@
 
  Remember, you can use the help(“FunctionName”) in Python to get help on any function
 
+- First Prediction Made :)
+  - see prediction.py
+
+Tutorial: https://www.youtube.com/watch?v=V59bYfIomVk
